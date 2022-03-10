@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A falta de controle financeiro é um problema comum especialmente para quem está em fase de adquirir maturidade financeira. Para isso, muitas vezes um app de gestão de despesas costuma ser útil, mas nem sempre é fácil criar o hábito de usá-lo. Aproximar esse tipo de aplicação a um canal ao qual o usuário já está habituado é a proposta de valor deste projeto.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
