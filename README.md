@@ -7,8 +7,8 @@
 ## Integrantes
 
 - Isaac Kennedy
-- Matheus Betti
-- Ricardo Henrique Barbosa
+- Matheus Betti 
+- Ricardo Henrique Barbosa 35 992252016
 
 ## Professor
 
