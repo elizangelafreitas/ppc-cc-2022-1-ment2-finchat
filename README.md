@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Isaac Kennedy
+- Isaac Kennedy (35) 99827-6360
 - Matheus Betti 
 - Ricardo Henrique Barbosa 35 992252016
 
