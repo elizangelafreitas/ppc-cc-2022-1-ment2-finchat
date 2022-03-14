@@ -6,7 +6,6 @@
 
 ## Integrantes
 
-- Higor Januario Sasseron
 - Isaac Kennedy
 - Matheus Betti
 - Ricardo Henrique Barbosa
