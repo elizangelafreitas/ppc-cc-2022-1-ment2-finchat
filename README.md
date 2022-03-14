@@ -6,9 +6,9 @@
 
 ## Integrantes
 
-- Isaac Kennedy (35) 99827-6360
-- Matheus Betti 
-- Ricardo Henrique Barbosa (35) 99225-2016
+- Isaac Kennedy (35) 9 9827-6360
+- Matheus Betti (35) 9 9969-2202
+- Ricardo Henrique Barbosa (35) 9 9225-2016
 
 ## Professor
 
@@ -39,3 +39,4 @@
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+)
