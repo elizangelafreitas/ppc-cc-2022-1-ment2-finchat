@@ -18,6 +18,7 @@ Dessa forma, pretendemos reduzir o atrito necessário e tornar o caminho mais cu
 ## Público-Alvo
 O público-alvo é bem definido a partir da descrição do problema:
 Jovens adultos brasileiros de 18 a 25 anos que não realizam controle financeiro e utilizam aplicativos de mensagens.
+Estima-se que 8.970.053 de brasileiros estejam nesse grupo.
 
 ## Bibliografia
 
