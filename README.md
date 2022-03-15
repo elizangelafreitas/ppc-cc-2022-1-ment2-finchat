@@ -42,6 +42,6 @@
 
 # Contato
 
-Lucas Fernandes Cruz
-Av. Pe. Cletus Francis Cox 445
-Reuniões quinzenais
+- Lucas Fernandes Cruz
+- Av. Pe. Cletus Francis Cox 445
+- Reuniões quinzenais
