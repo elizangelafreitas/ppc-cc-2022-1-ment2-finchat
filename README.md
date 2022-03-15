@@ -39,4 +39,9 @@
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
-)
+
+# Contato
+
+Lucas Fernandes Cruz
+Av. Pe. Cletus Francis Cox 445
+Reuniões quinzenais
