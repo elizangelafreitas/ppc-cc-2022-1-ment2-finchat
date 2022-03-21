@@ -1,6 +1,6 @@
 # Introdução
 
-A falta de controle financeiro é um problema comum especialmente para quem está em fase de adquirir maturidade financeira. Para isso, muitas vezes um app de gestão de despesas costuma ser útil, mas nem sempre é fácil criar o hábito de usá-lo. Aproximar esse tipo de aplicação a um canal ao qual o usuário já está habituado, como um aplicativo de mensagens (WhatsApp, ou, nesse caso, Telegram) é a proposta de valor deste projeto.
+A falta de controle financeiro é um problema comum especialmente para quem está em fase de adquirir maturidade financeira. Para isso, muitas vezes um app de gestão de despesas costuma ser útil, mas nem sempre é fácil criar o hábito de usá-lo. Aproximar esse tipo de aplicação a um canal ao usuário que já está habituado, como um aplicativo de mensagens (WhatsApp, ou nesse caso Telegram) é a proposta de valor deste projeto.
 
 ## Problema
 Segundo uma pesquisa de 2019 realizada pelo SPC Brasil, aproximadamente metade dos adultos entre 18 e 25 anos, a chamada geração Z, não realiza nenhum tipo de controle financeiro. Entre os motivos mais mencionados estão **não saber fazer** (19%), **sentir preguiça** (18%), **não ter hábito ou disciplina** (18%) ou **não ter rendimentos** (16%).
