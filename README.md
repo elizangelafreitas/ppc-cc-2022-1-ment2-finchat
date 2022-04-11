@@ -9,6 +9,7 @@
 - Isaac Kennedy (35) 9 9827-6360
 - Matheus Betti (35) 9 9969-2202
 - Ricardo Henrique Barbosa (35) 9 9225-2016
+- Elizângela Maria de Freitas (35) 9 9994-4733
 
 ## Professor
 
